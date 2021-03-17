@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Work\Upwork\Breathing Electronics Co\PCB\PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb-plated.txt|DrillLayers=gtl,g1,gp1,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb-nonplated.txt|DrillLayers=gtl,g1,gp1,gbl
